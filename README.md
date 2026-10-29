@@ -1,6 +1,6 @@
 # One More Pop
 
-A small, fifty-level chain-reaction game. Tap golden kernels and clear the pot with three initial taps. Discover butter, spoons, shells, twins, bounce pads, syrup, rotating dividers, crowns, and tap-refunding sparks.
+A small, fifty-level chain-reaction game. Tap golden kernels and clear the pot with three initial taps. Discover butter, spoons, shells, twins, bounce pads, syrup, rotating dividers, heat relays, and tap-refunding sparks.
 
 ## Play
 
