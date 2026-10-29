@@ -1,6 +1,6 @@
 # One More Pop
 
-A small, fifty-level chain-reaction game. Tap golden kernels and clear the pot with three initial taps. Discover butter, spoons, shells, twins, bounce pads, syrup, rotating dividers, heat relays, and tap-refunding sparks. The final chapter combines spark banking, overflow decisions, heat, and rotating dividers.
+A small, fifty-level chain-reaction game. Tap golden kernels and clear the pot with three initial taps. Discover butter, spoons, shells, twins, bounce pads, syrup, rotating dividers, heat relays, and tap-refunding sparks. The final chapter combines spark banking, overflow decisions, heat, and rotating dividers. An extra Endless Pot offers unlimited taps, surprise kernels, changing pot events, and optional little challenges.
 
 ## Play
 
